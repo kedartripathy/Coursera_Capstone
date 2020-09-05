@@ -11,3 +11,5 @@ Acknowledgements for dataset:
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
 
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
+
+Presentation: https://docs.google.com/presentation/d/1aw_RPMdKZrIh2eI-8nhzY14Fv8uakPfq3_M9AAcEzv4/edit?usp=sharing
